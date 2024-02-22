@@ -8,7 +8,7 @@ Se poate si integra in website-ul personal adaugand  iframe-ul de mai jos la cod
 
 
 <iframe
-src="https://www.chatbase.co/chatbot-iframe/3cd9pNd3nPRFTBfS7JMy1"
+src="https://www.chatbase.co/chatbot/hBg0-1rPiu2F3WoKJ_I5I"
 width="100%"
 style="height: 100%; min-height: 700px"
 frameborder="0"
