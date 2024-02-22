@@ -1,6 +1,6 @@
 # Chatbot
 Stocks Chatbot - Carbunaru Marius Alexandru
-ChatBot-ul create de mine poate fi gasit la adresa urmatoare: https://www.chatbase.co/chatbot-iframe/3cd9pNd3nPRFTBfS7JMy1
+ChatBot-ul create de mine poate fi gasit la adresa urmatoare: https://www.chatbase.co/chatbot/hBg0-1rPiu2F3WoKJ_I5I
 
 Este nevoie de cont pe https://www.chatbase.co pentru al rula.
 
