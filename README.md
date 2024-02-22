@@ -1,6 +1,7 @@
 # Chatbot
 Stocks Chatbot - Carbunaru Marius Alexandru
 ChatBot-ul create de mine poate fi gasit la adresa urmatoare: https://www.chatbase.co/chatbot/hBg0-1rPiu2F3WoKJ_I5I
+Este facut pe o platforma free deci nu are multe rulari - 20 . Pentru mai multe rulari trebuie cumparat pachet separat.
 
 Este nevoie de cont pe https://www.chatbase.co pentru al rula.
 
