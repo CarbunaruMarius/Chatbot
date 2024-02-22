@@ -4,8 +4,9 @@ ChatBot-ul create de mine poate fi gasit la adresa urmatoare: https://www.chatba
 Este facut pe o platforma free deci nu are multe rulari - 20 . Pentru mai multe rulari trebuie cumparat pachet separat.
 
 *La mail-ul trimis inapoi am atasat un chatbot facut anterior pe care l-am testat de prea multe ori si a trebuit sa-l fac pe asta in loc sa poata fi testat*
+*Se poate compila din nou pe platforma chatbase cu un cont nou folosind cele 2 fisiere atasate la e-mail : "CODE - Chat BOT - Carbunaru Marius Alexandru" si "Chatbot - stock data"*
 
-Este nevoie de cont pe https://www.chatbase.co pentru al rula.
+Este nevoie de cont pe https://www.chatbase.co pentru a il rula.
 
 Se poate si integra in website-ul personal adaugand  iframe-ul de mai jos la codul html al website-ului.
 
